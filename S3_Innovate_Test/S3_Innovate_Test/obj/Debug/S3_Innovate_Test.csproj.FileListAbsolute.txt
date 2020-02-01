@@ -1,0 +1,7 @@
+C:\Users\BIGGO\Source\Repos\S3_Innovate_Test\S3_Innovate_Test\obj\Debug\S3_Innovate_Test.csprojAssemblyReference.cache
+C:\Users\BIGGO\Source\Repos\S3_Innovate_Test\S3_Innovate_Test\obj\Debug\S3_Innovate_Test.csproj.CoreCompileInputs.cache
+C:\Users\BIGGO\Source\Repos\S3_Innovate_Test\S3_Innovate_Test\bin\Debug\S3_Innovate_Test.exe.config
+C:\Users\BIGGO\Source\Repos\S3_Innovate_Test\S3_Innovate_Test\bin\Debug\S3_Innovate_Test.exe
+C:\Users\BIGGO\Source\Repos\S3_Innovate_Test\S3_Innovate_Test\bin\Debug\S3_Innovate_Test.pdb
+C:\Users\BIGGO\Source\Repos\S3_Innovate_Test\S3_Innovate_Test\obj\Debug\S3_Innovate_Test.exe
+C:\Users\BIGGO\Source\Repos\S3_Innovate_Test\S3_Innovate_Test\obj\Debug\S3_Innovate_Test.pdb
